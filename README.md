@@ -74,10 +74,11 @@ This project is a simulation of an advanced Operating System environment, focusi
 
 ## 👨‍💻 Contributors
 
+- Hassan Ali – [23-CYS-035]
 - Muneeb Ahmed – [23-CYS-004]  
 - Syed Haider Abbas – [23-CYS-038]  
 - Shayan Latif – [23-CYS-041]  
-- Hassan Ali – [23-CYS-035]
+
 
 ---
 
