@@ -30,3 +30,70 @@ This project is a simulation of an advanced Operating System environment, focusi
 
 ## 📂 Project Structure
 
+---
+
+## 🔧 Technologies Used
+
+- **Language**: C++  
+- **Concepts**:
+  - Operating System Scheduling
+  - Deadlock Detection and Prevention
+  - Simulation and Visualization
+
+---
+
+## 📷 Screenshots
+
+| Gantt Chart | RAG Diagram |
+|-------------|-------------|
+| ![Gantt Chart](outputs/gantt_chart.png) | ![RAG](outputs/resource_allocation_graph.png) |
+
+---
+
+## 🧠 Key Algorithms
+
+- **Round Robin (RR)**  
+- **Priority Scheduling**  
+- **Shortest Job Next (SJN)**  
+- **Banker’s Algorithm**  
+- **Aging (for starvation prevention)**
+
+---
+
+## 📊 Performance Comparison
+
+| Metric              | Without Hybrid Scheduling | With Hybrid Scheduling |
+|---------------------|---------------------------|-------------------------|
+| Avg Waiting Time    | High                      | Low                     |
+| Turnaround Time     | High                      | Low                     |
+| Starvation          | May Occur                 | Avoided (via Aging)     |
+| Deadlock            | Possible                  | Prevented               |
+| Resource Utilization| Poor                      | Optimized               |
+
+---
+
+## 👨‍💻 Contributors
+
+- Muneeb Ahmed – [23-CYS-004]  
+- Syed Haider Abbas – [23-CYS-038]  
+- Shayan Latif – [23-CYS-041]  
+- Hassan Ali – [23-CYS-035]
+
+---
+
+## 📚 References
+
+- *Operating System Concepts* – Abraham Silberschatz  
+- *Operating Systems: Internals and Design Principles* – William Stallings  
+- [Banker's Algorithm – Wikipedia](https://en.wikipedia.org/wiki/Banker%27s_algorithm)  
+- [Banker’s Algorithm – GeeksforGeeks](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)
+
+---
+
+## ✅ Conclusion
+
+This project successfully demonstrates how **hybrid scheduling**, **aging**, and **Banker's Algorithm** can work together to simulate a stable and efficient OS environment. The system adapts dynamically to workloads while ensuring fairness and safety.
+
+---
+
+
